@@ -1,0 +1,3 @@
+1. HTML emails are different because they are read and displayed by email clients, which have a much greater variety than web browsers, and therefore much less standardization and support for HTML practices. To have emails that display as correctly and aesthetically as possible, email content is structured using tables. This would be chaotic for a webpage, but necessary to display content correctly in as many email clients as possible.
+
+2. It helps me greatly to think about tables as wrappers, and rows/columns as something like mini flex displays for the content inside of them. This helps me decode what parts are supposed to go where and how to structure the conten.t
